@@ -69,5 +69,4 @@ demo = gr.Interface(
     description="Enter your symptoms and get the top 3 disease predictions, along with descriptions and precautions.",
 )
 
-if __name__ == "__main__":
-    demo.launch()   
+demo.launch(share=True)   
