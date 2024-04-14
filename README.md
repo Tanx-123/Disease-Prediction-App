@@ -15,8 +15,11 @@ Prerequisites:
 4. Pandas
 5. Tensorflow
 
-Usage
 Run the application:
-
-Copy code
+```shell
 python test.py
+```
+
+Contributing:
+
+If you find any issues or would like to contribute to the project, feel free to open a new issue or submit a pull request.
