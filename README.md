@@ -1,5 +1,5 @@
 # Disease-Prediction-App
-This is a machine learning-based disease prediction app built using Gradio, a Python library for creating interactive web applications.
+This is a deep learning and NLP(Natural Language Processing) based disease prediction app built using Gradio, a Python library for creating interactive web applications.
 The app takes user input in the form of symptoms and predicts the top 3 most likely diseases, along with their descriptions and precautions.
 
 Features:
